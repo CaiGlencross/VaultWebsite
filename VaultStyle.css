@@ -1,0 +1,25 @@
+body{
+	background-color: black;
+}
+
+body,html{
+
+	width: 100%;
+	height: 100%;
+	margin: 0px;
+
+}
+p{
+color:red;
+text-align: center;
+}
+h1{
+text-align: center;
+color: white;
+}
+#HomeScreen{
+	position: relative;
+}
+.Label, #canvas1{
+	position: absolute;
+}
